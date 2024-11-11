@@ -1,4 +1,4 @@
-# 💫 About Me:
+                  Hi👋,I'm Darshan gowda
 I'm a software developer with a focus on building impactful applications that solve real-world problems. My experience spans a variety of projects, including creating a voice assistant and developing a full-featured e-commerce platform, which has given me a strong foundation in both frontend and backend development. I enjoy working with technologies like Python, java , JavaScript, and HTML/CSS, and have a particular interest in integrating Python with web applications. Currently, I'm expanding my knowledge in full-stack development and exploring new tools to stay at the forefront of software innovation. I’m always open to connecting and collaborating on exciting projects with other tech enthusiasts.
 
 
